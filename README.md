@@ -62,10 +62,11 @@
 فقط مكتبة `flet` هي المطلوبة لعمل الواجهة.
 
 ```bash
-git clone https://github.com/your-username/files-checker-tool.git
+git clone https://github.com/khaledalghuzee/files_checker_for_teams
 cd files-checker-tool
 
 pip install -r requirements.txt
 
 python main.py
+
 
