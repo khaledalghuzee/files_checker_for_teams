@@ -14,7 +14,7 @@
 ### طريقة الاستخدام:
 ### الاداه تفحص اسماء الملفات بحيث تفترض أن الملفات الصحيحة تكون كالتالي:
 #### 1. مكتوبة بصيغة YYYY-MM-DD_ANYTHING_ANYTHING.ext
-#### مثلا(2026-01-01_example_fiel.md)
+#### مثلا(2026-01-01_example_file.md)
 
 #### 2. أن لايكون الملف فارغا
 
@@ -68,5 +68,6 @@ cd files-checker-tool
 pip install -r requirements.txt
 
 python main.py
+
 
 
